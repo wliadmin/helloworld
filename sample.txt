@@ -19,7 +19,7 @@
 #-keepclassmembers class fqcn.of.javascript.interface.for.webview {
 #   public *;
 #}
-#sample changes_b1
+#sample changes_b2_b2
 
 change
 m_master:change2
